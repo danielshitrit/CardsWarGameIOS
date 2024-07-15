@@ -1,2 +1,2 @@
-# HW1-2_ios
+# CardsWarGameIOS
 Cards war game
